@@ -23,7 +23,7 @@ Begin [here!](https://github.com/jsahil730/Assignment/tree/develop/folder)
 You just need to report the individual pieces you found!
 
 ## Task 2
-We were given some [Julia](https://julialang.org/) [code](); however it uses some nifty tricks!
+We were given some [Julia](https://julialang.org/) [code](task2/challenge.jl); however it uses some nifty tricks!
 Any clues what might be happening here?
 
 ## Task 3
