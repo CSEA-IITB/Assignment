@@ -8,7 +8,7 @@ pls ping OofNoicety#1900 on discord, or use the contact details mentioned in the
 You can have a look at some writeups for old CTFs [here](https://github.com/CSEA-IITB/WriteUps); in case you're wondering how to write a "writeup" - it needn't be formal, but must have your thought process jotted down
 
 ## How to submit?
-Just make a **private** github repository for the writeups and code for solutions; and fill the following form [insert form link here]
+Just make a **private** github repository for the writeups and code for solutions; and fill the following form [https://forms.gle/uzQhXHhQnEopCeqAA]
 
 ## Deadline
 The deadline for the assignment is 1st July 2021 23:59 IST.  
