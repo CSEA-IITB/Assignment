@@ -11,7 +11,7 @@ You can have a look at some writeups for old CTFs [here](https://github.com/CSEA
 Just make a **private** github repository for the writeups and code for solutions; add @jsahil730 as a collaborator and then fill this [form](https://forms.gle/uzQhXHhQnEopCeqAA)
 
 ## Deadline
-The deadline for the assignment is 1st July 2021 23:59 IST.  
+The deadline for the assignment is 2nd July 2021 23:59 IST.  
 Selected candidates would be contacted by us on the provided email-ids and would be interviewed on 3rd July onwards.
 
 ## Task 1
