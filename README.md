@@ -29,3 +29,6 @@ Any clues what might be happening here?
 ## Task 3
 I just received this [funny audio](task3/challenge.mp3) but I suspect that there's something hidden in it.
 Can you find out its' secret for me?
+
+Since we were asked for it 😛 -  
+**Hint** : How many kinds of different phrases does the audio clip have? Is that in any manner related to computers? And have you heard of ASCII?
