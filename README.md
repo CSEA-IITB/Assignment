@@ -8,7 +8,7 @@ pls ping OofNoicety#1900 on discord, or use the contact details mentioned in the
 You can have a look at some writeups for old CTFs [here](https://github.com/CSEA-IITB/WriteUps); in case you're wondering how to write a "writeup" - it needn't be formal, but must have your thought process jotted down
 
 ## How to submit?
-Just make a **private** github repository for the writeups and code for solutions; add @jsahil730 as a collaborator and then fill this [form](https://forms.gle/uzQhXHhQnEopCeqAA)
+Just make a **private** github repository for the writeups and code for solutions; add @jsahil730 as a colaborator and then fill this [form](https://forms.gle/uzQhXHhQnEopCeqAA)
 
 ## Deadline
 The deadline for the assignment is 2nd July 2021 23:59 IST.  
@@ -27,8 +27,13 @@ We were given some [Julia](https://julialang.org/) [code](task2/challenge.jl); h
 Any clues what might be happening here?
 
 ## Task 3
-I just received this [funny audio](task3/challenge.mp3) but I suspect that there's something hidden in it.
+I just received this [funny audio](task3/challenge1.mp3) but I suspect that there's something hidden in it.
 Can you find out its' secret for me?
 
+### Update 1
 Since we were asked for it 😛 -  
 **Hint** : How many kinds of different phrases does the audio clip have? Is that in any manner related to computers? And have you heard of ASCII?
+
+### Update 2
+Well, I received another [funny audio](task3/challenge.mp3) today and I suspect that this has the same secret hidden as the other audio.
+Can you please help me figure out the secret? It may just be the key for me to become a Csec convener!!!
