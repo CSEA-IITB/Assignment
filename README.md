@@ -36,4 +36,5 @@ Since we were asked for it 😛 -
 
 ### Update 2
 Well, I received another [funny audio](task3/challenge.mp3) today and I suspect that this has the same secret hidden as the other audio.
-Can you please help me figure out the secret? It may just be the key for me to become a Csec convener!!!
+It so appears that this newer file might be easier to crack rather than the original one!
+Can you please help me figure out the "hidden" secret? It may just be the key for me to become a Csec convener!!! (just kidding, it's not)
